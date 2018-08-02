@@ -1,0 +1,1 @@
+var hate="i hate git";
